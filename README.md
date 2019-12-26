@@ -15,5 +15,8 @@
 - 특정 평점을 입력하면, 해당되는 영화평들을 10개씩 출력한다.
 - n 또는 N을 입력하면 프로그램을 종료한다.
 
+## 실행 화면
+- (.ipynb 파일 참고)
+
 ## 참고자료
 https://www.yceffort.kr/2018/11/05/web-crwaling-for-naver-movie
